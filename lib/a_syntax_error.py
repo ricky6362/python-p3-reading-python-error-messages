@@ -1,3 +1,4 @@
 #!/usr/bin/env python3
+number = 3
 
-poor_syntax = 2 * #
+good_syntax = 2 * number
